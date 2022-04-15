@@ -22,6 +22,7 @@
 <img align="left" alt="MongoDB" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Solidity" height="26px" src="https://miro.medium.com/max/1400/0*4G3cO7glx5jvIk7g" style="padding-right:10px;" />
 <img align="left" alt="Figma" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Wordpress" height="26px" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" height="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
 
