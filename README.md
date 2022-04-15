@@ -1,5 +1,7 @@
-# Hi there, I'm Tirkus - aka [Quriousman][website] 👋 
+# Hi there, I'm Tirkus - AKA [Quriousman][website] 👋 
 
+## I'm a lifelong Learner, Developer, and researcher!!
+- Check out my personal business site: Curiosity is all you need to solve real-world challenges. [Quriousman][website] (Sorry for the inconvenience, but all content is in Thai since we serve all Thai clients.)
 - 👋 Hi, I’m @Nebgibz
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
