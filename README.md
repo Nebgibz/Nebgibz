@@ -20,8 +20,9 @@
 <img align="left" alt="MySQL" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Firebase" height="26px" src="https://www.gstatic.com/devrel-devsite/prod/vb4b5f40392bd9ba34d31c8578d2b4bd0a5bd852eabd9554190f5a24f31b598a8/firebase/images/lockup.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Solidity" height="26px" src="https://miro.medium.com/max/1400/0*4G3cO7glx5jvIk7g" style="padding-right:10px;" />
 <img align="left" alt="GitHub" height="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" height="26px" src="https://miro.medium.com/max/1400/0*4G3cO7glx5jvIk7g" style="padding-right:10px;" />
+
 
 
 [quriousman-website]: https://quriousman.com
